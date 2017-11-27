@@ -1,1 +1,2 @@
-# java-banking
+# Projet POO Gestionnaire de compte en banque
+=============================================
