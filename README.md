@@ -49,8 +49,9 @@
       }
             
       
-* Problèmes non résolus : 1. Les classes de tests ne sont pas trouvées lors du lancement de `test.sh`.  
-                          2. Nous n'avons pas réussi à limiter les entrées aux chaines de caractères ou aux entiers.
+* Problèmes non résolus : 
+1. Les classes de tests ne sont pas trouvées lors du lancement de `test.sh`.  
+2. Nous n'avons pas réussi à limiter les entrées aux chaines de caractères ou aux entiers.
 
 
 
