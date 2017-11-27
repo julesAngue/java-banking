@@ -4,6 +4,6 @@
 
 ** Commandes de Lancement des tests
 
-$ ./compile.sh
 
-$ ./test.sh
+      $ ./compile.sh
+      $./test.sh
